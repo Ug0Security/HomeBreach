@@ -1,0 +1,7 @@
+shodan == http.favicon.hash:1198227220
+
+https://github.com/homebridge/homebridge-raspbian-image
+
+default password on web interface (admin:admin) and terminal post auth
+
+about 10-20% have it from my scans
